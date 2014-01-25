@@ -1,0 +1,10 @@
+# Unity .gitignore file.
+.DS_Store
+GGJ2014/Library
+GGJ2014/Library/*
+GGJ2014/*.csproj
+GGJ2014/*.sln
+GGJ2014/*.userprefs
+GGJ2014/Temp
+GGJ2014/*.pidb
+GGJ2014Build
